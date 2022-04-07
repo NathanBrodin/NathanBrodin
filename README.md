@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Nathan Brodin, a 19yd french engineering student at ESIEA school.
+
 <!--
 **NathanBrodin/NathanBrodin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
