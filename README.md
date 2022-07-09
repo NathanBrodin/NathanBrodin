@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">A french engineering student at ESIEA school</h3>
 
-- 🔭 I’m currently working on [my Porfolio](https://nathanbrodin.github.io/)
-
 - 👨‍💻 All of my projects are available at [https://nathanbrodin.github.io/](https://nathanbrodin.github.io/)
 
 - 📄 Know about me : Student in second year of engineering school at ESIEA: 2nd best French private engineering school
