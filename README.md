@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nathanbrodin.github.io/](https://nathanbrodin.github.io/)
 
-- 📄 Know about my experiences: 3nd year of engineering studies at ESIEA IT school of engineering
+- 📄 Know about me: French software engineering student at ESIEA
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
